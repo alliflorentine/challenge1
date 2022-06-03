@@ -38,7 +38,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #pink;
     text-decoration: none;
 }
 
@@ -83,17 +83,17 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #pink;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #pink;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #pink;
 }
 
 .benefit-lead h3 {
@@ -134,8 +134,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #purple;
+    color: #pink;
 }
 
 .social-media-marketing {
@@ -143,8 +143,8 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: #purple;
+    color: #pink;
 }
 
 .online-reputation-management img {
